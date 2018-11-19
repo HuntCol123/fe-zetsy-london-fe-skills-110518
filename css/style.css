@@ -50,5 +50,8 @@ h1 {
       color: #555;
       font-size: 1em;
       margin: 0 0 20px 0;
-      
+    }
+    
+    footer {
+      text-align: right;
     }
