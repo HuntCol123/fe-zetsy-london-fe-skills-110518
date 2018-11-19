@@ -56,3 +56,7 @@ h1 {
       text-align: right;
       background: white;
     }
+    
+.small {
+  font-size: 0.8em;
+}
